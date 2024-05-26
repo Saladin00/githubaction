@@ -116,4 +116,4 @@ jobs:
             MESSAGE="One or more jobs failed. Please check the build and test results."
           fi
 
-          curl -s -X POST https://api.telegram.org/bot7277087165:AAFLrsDRkcZr71x8EAV-IQ_52DZ3S9nDbMQ -d chat_id=https://t.me/ihsanhaha_bot -d text="hallo"
+          curl -s -X POST https://api.telegram.org/bot7277087165:AAFLrsDRkcZr71x8EAV-IQ_52DZ3S9nDbMQ -d chat_id=6664962615 -d text="hallo"
